@@ -2,12 +2,13 @@
 
 the Quiz App is a fun and educational web application that is great for anyone looking to test their knowledge on various topics.
 
+<img width="1440" alt="Screenshot 1402-04-26 at 10 30 17" src="https://github.com/ahsn-dev/quiz-app/assets/68742427/58449cfe-8145-4799-a6eb-7d0b259bbef9">
 
 ## Features
 
 - Users can take quizzes on various topics
 
-- Each quiz has a set of questions with multiple choice answers
+- Each quiz has a set of questions with multiple-choice answers
 
 - Users can select an answer for each question and move to the next question
 
